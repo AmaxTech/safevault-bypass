@@ -15,8 +15,14 @@ Step 1 --> Download Amax Safevault bypass.rar (anywhere on C: drive)
 Step 2 --> Run the program (Amax Safevault bypass.exe) --> (if missing or outdated, you will have to download vcredist_x64 from Microsoft)                                      
 Step 3 --> Open Growtopia                              
 Step 4 --> Just wrench your Safevault you forgot the password to, and you can instantly access it without a password :)                                
-Step 5 --> Enjoy!                                    
-            
-                
+Step 5 --> Enjoy!
+
+### Android                                    
+For Android, download AmaxTech.apk, and launch :)            
+And works the same as with PC
+         
+                 
 Works in Growtopia V4.50
 Incase of any issues, email AmaxGTtech@gmail.com
+                            
+Hopefully you all can retrieve your lost items!
