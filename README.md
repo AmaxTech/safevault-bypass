@@ -17,10 +17,6 @@ Step 3 --> Open Growtopia
 Step 4 --> Just wrench your Safevault you forgot the password to, and you can instantly access it without a password :)                                
 Step 5 --> Enjoy!
 
-### Android                                    
-For Android, download AmaxTech.apk, and launch :)            
-And works the same as with PC
-         
                  
 Works in Growtopia V4.50
 Incase of any issues, email AmaxGTtech@gmail.com
