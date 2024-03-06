@@ -18,7 +18,10 @@ Step 4 --> Just wrench your Safevault you forgot the password to, and you can in
 Step 5 --> Enjoy!
 
                  
-Works in Growtopia V4.50
+Works in Growtopia V4.51
 Incase of any issues, email AmaxGTtech@gmail.com
                             
 Hopefully you all can retrieve your lost items!
+
+// 7.3.2024                 
+App still works in Growtopia V4.51
