@@ -14,7 +14,7 @@ Step 3 --> Switch real-time protection to Off.
 Step 1 --> Download Amax Safevault bypass.rar (anywhere on C: drive)                       
 Step 2 --> Run the program (Amax Safevault bypass.exe) --> (if missing or outdated, you will have to download vcredist_x64 from Microsoft)                                    
 Step 3 --> Open Growtopia                              
-Step 4 --> Just wrench your Safevault you forgot the password to, and you can instantly access it without a password :)                                
+Step 4 --> Just wrench your Safevault you forgot the password to, and you can instantly access it without a password                              
 Step 5 --> Enjoy!
 
                  
