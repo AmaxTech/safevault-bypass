@@ -1,5 +1,5 @@
-# Safevault Bypass script for Growtopia.                 
-Growtopia Safevault Bypass script. If you forgot your password, your fine now! App is dummyproof, and easy to use.
+# Safevault Bypass application for Growtopia.                 
+Growtopia Safevault Bypass application. If you forgot your password, your fine now! App is dummyproof, and easy to use.
                                   
 You may need to disable your Windows Defender or 3rd party anticheat for this program to run properly.
                         
