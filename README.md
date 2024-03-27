@@ -23,5 +23,5 @@ Incase of any issues, email AmaxGTtech@gmail.com
                             
 Hopefully you all can retrieve your lost items!
 
-// 26.3.2024                                 
-App still works in Growtopia V4.51!
+// 27.3.2024                                
+App still works in Growtopia V4.52!
